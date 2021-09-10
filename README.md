@@ -1,2 +1,19 @@
-# Covid-19-Android-UI
-This application provides all statistics like how many totals affected, total recovery, total death at the bottom how you can prevent them with a hotline number if you fall sick, and face any COVID-19 symptoms just make a call.
+# Covid-19 - Flutter UI
+
+**Packages we are using:**
+
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+
+**Fonts**
+
+- Poppins [link](https://fonts.google.com/specimen/Poppins)
+
+**UI Credit**
+
+- Design by: Gautam Patel [link](https://www.uplabs.com/posts/coronavirus-information-concept)
+
+### Covid-19 App Final UI
+
+![App UI](/covid_19.png)
+
+![Demo](https://user-images.githubusercontent.com/5730051/79185949-8acf3c80-7e42-11ea-984d-b098cfee5cd1.gif)
